@@ -17,9 +17,9 @@
   "typings": "./lib/windows-shortcuts.d.ts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/yourusername/windows-shortcuts-gbk.git"  // 替换为你的 GitHub 地址
+    "url": "git://github.com/Wonvy/windows-shortcuts-gbk" 
   },
-  "homepage": "http://github.com/yourusername/windows-shortcuts-gbk", // 替换为你的 GitHub 地址
+  "homepage": "https://github.com/Wonvy/windows-shortcuts-gbk", 
   "devDependencies": {
     "signal-exit": "^2.1.2",
     "tape": "^4.4.0",
@@ -31,6 +31,6 @@
     "test": "test"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/windows-shortcuts-gbk/issues" // 替换为你的 GitHub 地址
+    "url": "https://github.com/Wonvy/windows-shortcuts-gbk/issues" 
   }
 }
